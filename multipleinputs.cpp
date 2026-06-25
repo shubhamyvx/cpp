@@ -11,8 +11,8 @@ int main(){
     std::cout<<"Enter character"<<std::endl;
     std::cin>>alpha;
 
-    std::cout<<"Entered integer number"<<num<<std::endl;
-    std::cout<<"Entered float number"<<dec<<std::endl;
-    std::cout<<"Entered character"<<alpha<<std::endl;
+    std::cout<<"Entered integer number"<< num<<std::endl;
+    std::cout<<"Entered float number"<< dec<<std::endl;
+    std::cout<<"Entered character"<< alpha<<std::endl;
     return 0;
 }
