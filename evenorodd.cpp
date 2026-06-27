@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     int number;
-    cout << "Enter number" <<endl;
+    cout << "Enter number :";
     cin >> number;
     if (number%2==0){
         cout << "Even" << endl;
